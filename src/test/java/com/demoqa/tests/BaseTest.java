@@ -34,7 +34,7 @@ public class BaseTest {
         }
         else {
             Configuration.browser ="chrome";
-            Configuration.browserSize ="1920x1180";
+            Configuration.browserSize ="1920x1080";
         }
     }
 
